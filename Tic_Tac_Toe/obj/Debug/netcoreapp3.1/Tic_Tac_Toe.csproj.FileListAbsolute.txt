@@ -1,0 +1,24 @@
+H:\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.exe
+H:\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.deps.json
+H:\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.runtimeconfig.json
+H:\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.runtimeconfig.dev.json
+H:\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.dll
+H:\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.pdb
+H:\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.csprojAssemblyReference.cache
+H:\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.AssemblyInfoInputs.cache
+H:\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.AssemblyInfo.cs
+H:\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.dll
+H:\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.pdb
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.exe
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.deps.json
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.runtimeconfig.json
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.runtimeconfig.dev.json
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.dll
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\bin\Debug\netcoreapp3.1\Tic_Tac_Toe.pdb
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.csprojAssemblyReference.cache
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.AssemblyInfoInputs.cache
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.AssemblyInfo.cs
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.dll
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.pdb
+H:\New folder\My Work_2\My Work\C# World\Tic_Tac_Toe\obj\Debug\netcoreapp3.1\Tic_Tac_Toe.genruntimeconfig.cache
